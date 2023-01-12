@@ -1,0 +1,19 @@
+---
+title: "The MAPPS Team"
+---
+
+## Primary Investigators
+
+- Mark N. Lurie
+- Anna Lysyanskaya
+- Sohini Ramachandran
+- Kimani Toussaint
+- Julia Netter
+- Thomas Trikalonis
+
+## Core Researchers and Staff 
+
+- Peyton Luiz
+- Jason Gantenberg
+- Aditya Khanna
+- Guixing Wei

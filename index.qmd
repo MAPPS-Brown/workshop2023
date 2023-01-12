@@ -1,0 +1,13 @@
+---
+title: "Welcome to MAPPS@Brown"
+---
+
+![](images/mapps-brown-logo.png)
+
+**Privacy and Ethics in Pandemic Data Collection and Processing**  
+January 17--20, 2023
+Providence, RI
+
+This website will house materials related to the Center for Mobility Analysis for Pandemic Prevention Strategies (MAPPS) 2023 workshop entitled "Privacy and Ethic in Pandemic Data Collection and Processing".
+
+We will host workshop guides, session briefs, and summary documents here so that MAPPS participants can download these files throughout the week.
