@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 6879
 
 website:
   title: "MAPPS 2023 Workshop"
@@ -9,12 +11,13 @@ website:
       - href: index.qmd
         text: Home
       - href: team.qmd
+      - href: materials.qmd
+    background: "#003C71"
+    pinned: true
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
-
-
-
+    linkcolor: "#003C71"
