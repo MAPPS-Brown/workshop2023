@@ -5,14 +5,14 @@ title: "The MAPPS Team"
 ## Primary Investigators
 
 ::: {width="300px !important"}
-|                     |                                                                                                           |                                                                                        |
-|:--------------------|:----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
-| Mark N. Lurie       | Associate Professor of Epidemiology <br /> Director, International Health Institute                              | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/mlurieph) |
-| Anna Lysyanskaya    | Professor of Computer Science                                                                             | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/alysyans) |
-| Sohini Ramachandran | Professor of Biology and Computer Science <br /> Director, Data Science Initiative                        | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/sr33)     |
-| Kimani Toussaint    | Professor of Engineering                                                                                  | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/ktoussai) |
-| Julia Netter        | Visiting Assistant Professor of Philosophy                                                                | [{{< fa id-card title="Research profile" >}}](http://www.julianetter.de)               |
-| Thomas Trikalinos   | Professor of Health Services, Policy \& Practice <br /> Director, Center for Evidence Synthesis in Health | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/ttrikali) |
+|                                    |                                                                                                           |                                                                                        |
+|:-----------------------------------|:----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
+| Mark N. Lurie <br /> (PI)          | Associate Professor of Epidemiology <br /> Interim Director, International Health Institute               | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/mlurieph) |
+| Anna Lysyanskaya <br /> (Co-PI)    | Professor of Computer Science                                                                             | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/alysyans) |
+| Sohini Ramachandran <br /> (Co-PI) | Professor of Biology and Computer Science <br /> Director, Data Science Initiative                        | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/sr33)     |
+| Kimani Toussaint <br /> (Co-PI)    | Professor of Engineering                                                                                  | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/ktoussai) |
+| Julia Netter <br /> (Co-PI)        | Visiting Assistant Professor of Philosophy                                                                | [{{< fa id-card title="Research profile" >}}](http://www.julianetter.de)               |
+| Thomas Trikalinos <br /> (Co-PI)   | Professor of Health Services, Policy \& Practice <br /> Director, Center for Evidence Synthesis in Health | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/ttrikali) |
 
 : {tbl-colwidths="18,50,3"}
 :::
@@ -22,27 +22,47 @@ title: "The MAPPS Team"
 |                            |                                                                               |                                                                                                                                         |
 |:---------------------------|:------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Peyton Luiz                | Project Manager                                                               |                                                                                                                                         |
-| Betsy Stubblefield Loucks  | Associate Director, Research Strategy Development                             |                                                                                                                                         |
+| Betsy Stubblefield Loucks  | Associate Director, Research Strategy Development <br /> Workshop Organizer   |                                                                                                                                         |
 | Stavroula Chrysanthopoulou | Assistant Professor of Biostatistics                                          | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/schrysan)                                                  |
 | Jason Gantenberg           | Research Scientist <br /> Assistant Professor of the Practice of Epidemiology | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/jgantenb)                                                  |
 | Aditya Khanna              | Assistant Professor of Behavioral and Social Sciences                         | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/akhann16)                                                  |
 | Guixing Wei                | Senior GIS Developer and Spatial Scientist                                    | [{{< fa id-card title="Research profile" >}}](https://www.brown.edu/academics/spatial-structures-in-social-sciences/people/guixing-wei) |
+| Alyssa Bilinski            | Assistant Professor, Health Services, Policy \& Practice                      | [{{< fa id-card title="Research profile" >}}](https://vivo.brown.edu/display/abilinsk)                                                                                                                                        |
 
 : {tbl-colwidths="18,50,3"}
 
 
-## Students and Volunteers
+## Students, Note Takers, and Collaborators
 
-|                    |                              |
-|:-------------------|:-----------------------------|
-| Lucas Black        | MPH student                  |
-| Youri Benadjaoud   | MPH student                  |
-| Muzala Kawatu      | Undergraduate                |
-| Jorge Ledesma      | PhD student, Epidemiology    |
-| Zhijun Liu         | Undergraduate                |
-| Emily Ma           | MPH student                  |
-| Maria Pieruccini   | MPH student                  |
-| Kikuyo (Kiku) Shaw | Undergraduate                |
-| Yatharth Sharma    | Undergraduate, Public Health |
+|                         |                                                        |
+|:------------------------|:-------------------------------------------------------|
+| Lucas Blackmore         | MPH student                                            |
+| Youri Benadjaoud        | MPH student                                            |
+| Josi DeHaven            | Community volunteer                                    |
+| Scott Griffy            | PhD student, Computer Science                          |
+| Muzala Kawatu           | Undergraduate                                          |
+| Jorge Ledesma           | PhD student, Epidemiology                              |
+| Zhijun Liu              | Undergraduate                                          |
+| Emily Ma                | MPH student                                            |
+| Aquielle Person         | Research Assistant, Brown SPH Pandemic Center          |
+| Maria Pieruccini        | MPH student                                            |
+| Gage Reitzel            | MPH student                                            |
+| Leah Rosenbloom         | PhD candidate, Computer Science                        |
+| Kikuyo (Kiku) Shaw      | Undergraduate                                          |
+| Yatharth Sharma         | Undergraduate, Public Health                           |
+| Quihong (Anna) Wei      | Undergraduate, Applied Math; Masters, Computer Science |
+| Marta Wilson-Barthes    | Project Manager, Department of Epidemiology            |
+| Isabella (Izzy) Zangari | Undergraduate, Colgate University                      |
+| Tori Davis              | MPH student                                            |
+| Michael Thompson        | MPH student                                            |
+| Yurui Zhang             | ScM, Data Science                                      |
+
+: {tbl-colwidths="29,75"}
+
+## ICERM
+
+|               |                     |
+|:--------------|:--------------------|
+| Steven Freund | Program Coordinator |
 
 : {tbl-colwidths="29,75"}
