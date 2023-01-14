@@ -11,6 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - href: team.qmd
+      - href: agenda.qmd
+        text: Agenda
       - href: materials.qmd
     background: "#003C71"
     pinned: true
