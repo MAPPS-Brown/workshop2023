@@ -19,10 +19,14 @@ website:
     logo: /images/mapps-logo.png
     logo-alt: "MAPPS Logo"
     pinned: true
+  page-footer:
+    left: "Copyright 2023, MAPPS"
+    right: <img src='/images/icerm-logo.png' width='200px'>
 
 format:
   html:
-    theme: zephyr
+    theme:
+      light: zephyr
     css: styles.css
     toc: true
     linkcolor: "#003C71"
