@@ -6,6 +6,7 @@ project:
 
 website:
   title: "MAPPS 2023 Workshop"
+  favicon: /images/favicon.ico
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +16,8 @@ website:
         text: Agenda
       - href: materials.qmd
     background: "#003C71"
+    logo: /images/mapps-logo.png
+    logo-alt: "MAPPS Logo"
     pinned: true
 
 format:
