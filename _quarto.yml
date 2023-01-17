@@ -11,10 +11,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: guide.qmd
+        text: Workshop Guide
+      - href: slides.qmd
+        text: Keynote Slides
+      - href: dailies.qmd
+        text: Daily Summaries
       - href: team.qmd
-      - href: agenda.qmd
-        text: Agenda
-      - href: materials.qmd
+        text: The MAPPS Team
     background: "#003C71"
     logo: /images/mapps-logo.png
     logo-alt: "MAPPS Logo"

@@ -1,7 +1,0 @@
----
-title: "Workshop Agenda"
----
-
-```{=html}
-<iframe width="100%" height="850px" src="images/icerm-agenda.pdf" title="ICERM Agenda"></iframe>
-```
