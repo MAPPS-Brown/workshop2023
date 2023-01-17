@@ -17,6 +17,8 @@ website:
         text: Keynote Slides
       - href: dailies.qmd
         text: Daily Summaries
+      - href: other.qmd
+        text: Other Materials
       - href: team.qmd
         text: The MAPPS Team
     background: "#003C71"
