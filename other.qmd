@@ -2,8 +2,12 @@
 title: "Other Materials"
 ---
 
-## Focus Group Summary 
+## MAPPS Background
 
-```{=html}
-<iframe src='/materials/focus-group-brief.pdf' width="100%" height=800></iframe>
-```
+- [Smartphone App Focus Group Summary](/materials/focus-group-brief.pdf) (PDF)
+
+## Session Materials
+
+### January 17, 2023
+
+- [Introduction to MAPPING@Brown and Breakout Sessions](/materials/lurie-session-3_mapps-2023.pdf) (PDF)
