@@ -2,3 +2,8 @@
 title: "Keynote Slides"
 ---
 
+## Tuesday, January 17
+
+| Speaker    | Title                                                                          | File(s)                                           |
+|------------|--------------------------------------------------------------------------------|---------------------------------------------------|
+| Mark Lurie | Using mobility and social network data to predict and prevent future pandemics | [PDF](./materials/lurie-plenary_mapps-2023.pdf) |

@@ -2,12 +2,13 @@
 title: "Other Materials"
 ---
 
-## MAPPS Background
+## January 17, 2023
 
-- [Smartphone App Focus Group Summary](/materials/focus-group-brief.pdf) (PDF)
+| Author(s)                                  | Title                                                                      | File(s)                                                           |
+|--------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Mark Lurie                                 | Introduction to MAPPING@Brown and Breakouts                                | [PDF](/materials/lurie-session-3_mapps-2023.pdf)                  |
+| Peyton Luiz                                | Smartphone App Focus Group Summary                                         | [PDF](/materials/luiz-focus-group-brief_mapps-2023.pdf)           |
+| Thomas Trikalinos, <br /> Jason Gantenberg | _In Persona_ Epidemic Simulation                                           | [PDF](/materials/trikalinos-gantenberg-in-persona_mapps-2023.pdf) |
+| Guixing Wei, <br /> Kimani Toussaint              | Overview of Digital Contact Tracing Technologies and Data in Mapping@Brown | [PDF](/materials/wei-toussaint-location-biometrics_mapps-2023.pdf)                                                                  |
 
-## Session Materials
-
-### January 17, 2023
-
-- [Introduction to MAPPING@Brown and Breakout Sessions](/materials/lurie-session-3_mapps-2023.pdf) (PDF)
+: {tbl-colwidths="[25,70,5]"}
