@@ -4,6 +4,10 @@ title: "Keynote Slides"
 
 ## Tuesday, January 17
 
-| Speaker    | Title                                                                          | File(s)                                           |
-|------------|--------------------------------------------------------------------------------|---------------------------------------------------|
-| Mark Lurie | Using mobility and social network data to predict and prevent future pandemics | [PDF](./materials/lurie-plenary_mapps-2023.pdf) |
+| Speaker         | Title                                                                                                         | File(s)                                             |
+|-----------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| Mark Lurie      | Using mobility and social network data to predict and prevent future pandemics                                | [PDF](./materials/lurie-plenary_mapps-2023.pdf)     |
+| Samuel Scarpino | Network Epidemiology                                                                                          | [PDF](./materials/scarpino-network-epidemiology_mapps-2023.pdf) |
+| Katrina Ligett  | Privacy for Pandemics: An Introduction to Differential Privacy for Human Mobility and Interaction Data | [PDF](./materials/ligett-privacy-pandemics_mapps-2023.pdf)                                                    |
+
+: {tbl-colwidths="[23,70,7]"}
