@@ -2,3 +2,6 @@
 title: "Daily Summaries"
 ---
 
+# Tuesday, January 17
+
+<iframe src=/materials/mapps-daily-brief_jan17.pdf width="100%" height=400><iframe>
