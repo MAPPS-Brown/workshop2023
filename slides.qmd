@@ -9,8 +9,16 @@ title: "Keynote Slides"
 | Mark Lurie          | Using Mobility and Social Network Data to Predict and Prevent Future Pandemics                         | [PDF](./materials/lurie-plenary_mapps-2023.pdf)                           |
 | Samuel Scarpino     | Network Epidemiology                                                                                   | [PDF](./materials/scarpino-network-epidemiology_mapps-2023.pdf)           |
 | Katrina Ligett      | Privacy for Pandemics: An Introduction to Differential Privacy for Human Mobility and Interaction Data | [PDF](./materials/ligett-privacy-pandemics_mapps-2023.pdf)                |
-| Julia Netter        | Key Concerns and Principles for Large-Scale Data Collections and Surveillance                          | [PDF](./materials/netter-concerns-principles-surveillance_mapps-2023.pdf) |
-| Adam Smith          | Privacy and Synthetic Data                                                                             | [PDF](./materials/smith-privacy-synthetic-data_mapps-2023.pdf)            |
-| Sofya Raskhodnikova | Differentially Private Analysis of Graphs and Social Networks                                          | [PDF](./materials/raskhodnikova-dp-analysis-graphs_mapps-2023.pdf)                                                                          |
 
 : {tbl-colwidths="[23,70,7]"}
+
+
+## Wednesday, January 18
+
+|                     |                                                                               |                                                                           |
+|---------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Julia Netter        | Key Concerns and Principles for Large-Scale Data Collections and Surveillance | [PDF](./materials/netter-concerns-principles-surveillance_mapps-2023.pdf) |
+| Adam Smith          | Privacy and Synthetic Data                                                    | [PDF](./materials/smith-privacy-synthetic-data_mapps-2023.pdf)            |
+| Sofya Raskhodnikova | Differentially Private Analysis of Graphs and Social Networks                 | [PDF](./materials/raskhodnikova-dp-analysis-graphs_mapps-2023.pdf)        |
+
+: {tbl-colwidths="[23,70,10]"}

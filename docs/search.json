@@ -32,7 +32,7 @@
     "href": "slides.html",
     "title": "Keynote Slides",
     "section": "",
-    "text": "Speaker\nTitle\nFile(s)\n\n\n\n\nMark Lurie\nUsing Mobility and Social Network Data to Predict and Prevent Future Pandemics\nPDF\n\n\nSamuel Scarpino\nNetwork Epidemiology\nPDF\n\n\nKatrina Ligett\nPrivacy for Pandemics: An Introduction to Differential Privacy for Human Mobility and Interaction Data\nPDF\n\n\nJulia Netter\nKey Concerns and Principles for Large-Scale Data Collections and Surveillance\nPDF\n\n\nAdam Smith\nPrivacy and Synthetic Data\nPDF\n\n\nSofya Raskhodnikova\nDifferentially Private Analysis of Graphs and Social Networks\nPDF"
+    "text": "Speaker\nTitle\nFile(s)\n\n\n\n\nMark Lurie\nUsing Mobility and Social Network Data to Predict and Prevent Future Pandemics\nPDF\n\n\nSamuel Scarpino\nNetwork Epidemiology\nPDF\n\n\nKatrina Ligett\nPrivacy for Pandemics: An Introduction to Differential Privacy for Human Mobility and Interaction Data\nPDF"
   },
   {
     "objectID": "index.html",
@@ -54,5 +54,12 @@
     "title": "Daily Summaries",
     "section": "",
     "text": "Tuesday, January 17\n\n\n\n\nWednesday, January 18"
+  },
+  {
+    "objectID": "slides.html#wednesday-january-18",
+    "href": "slides.html#wednesday-january-18",
+    "title": "Keynote Slides",
+    "section": "Wednesday, January 18",
+    "text": "Wednesday, January 18\n\n\n\n\n\n\n\n\nJulia Netter\nKey Concerns and Principles for Large-Scale Data Collections and Surveillance\nPDF\n\n\nAdam Smith\nPrivacy and Synthetic Data\nPDF\n\n\nSofya Raskhodnikova\nDifferentially Private Analysis of Graphs and Social Networks\nPDF"
   }
 ]
