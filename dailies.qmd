@@ -8,3 +8,9 @@ title: "Daily Summaries"
 
 # Wednesday, January 18
 <iframe src=/materials/mapps-daily-brief_jan18.pdf width="100%" height=400></iframe>
+
+# Thursday, January 19
+<iframe src=/materials/mapps-daily-brief_jan19.pdf width="100%" height=400></iframe>
+
+# Friday, January 20
+<iframe src=/materials/mapps-daily-brief_jan20.pdf width="100%" height=400></iframe>
