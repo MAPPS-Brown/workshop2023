@@ -15,7 +15,7 @@ title: "Keynote Slides"
 
 ## Wednesday, January 18
 
-|                     |                                                                               |                                                                           |
+| Speaker             | Title                                                                         | File(s)                                                                   |
 |---------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Julia Netter        | Key Concerns and Principles for Large-Scale Data Collections and Surveillance | [PDF](./materials/netter-concerns-principles-surveillance_mapps-2023.pdf) |
 | Adam Smith          | Privacy and Synthetic Data                                                    | [PDF](./materials/smith-privacy-synthetic-data_mapps-2023.pdf)            |

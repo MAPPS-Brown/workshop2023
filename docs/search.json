@@ -35,18 +35,18 @@
     "text": "Speaker\nTitle\nFile(s)\n\n\n\n\nMark Lurie\nUsing Mobility and Social Network Data to Predict and Prevent Future Pandemics\nPDF\n\n\nSamuel Scarpino\nNetwork Epidemiology\nPDF\n\n\nKatrina Ligett\nPrivacy for Pandemics: An Introduction to Differential Privacy for Human Mobility and Interaction Data\nPDF"
   },
   {
+    "objectID": "slides.html#wednesday-january-18",
+    "href": "slides.html#wednesday-january-18",
+    "title": "Keynote Slides",
+    "section": "Wednesday, January 18",
+    "text": "Wednesday, January 18\n\n\n\n\n\n\n\n\nSpeaker\nTitle\nFile(s)\n\n\n\n\nJulia Netter\nKey Concerns and Principles for Large-Scale Data Collections and Surveillance\nPDF\n\n\nAdam Smith\nPrivacy and Synthetic Data\nPDF\n\n\nSofya Raskhodnikova\nDifferentially Private Analysis of Graphs and Social Networks\nPDF"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to MAPPS@Brown",
     "section": "",
     "text": "Privacy and Ethics in Pandemic Data Collection and Processing\nJanuary 17–20, 2023 Providence, RI\nThis website will house materials related to the Center for Mobility Analysis for Pandemic Prevention Strategies (MAPPS) 2023 workshop entitled “Privacy and Ethic in Pandemic Data Collection and Processing”.\nWe will host workshop guides, session briefs, and summary documents here so that MAPPS participants can download these files throughout the week."
-  },
-  {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Other Materials",
-    "section": "",
-    "text": "Author(s)\nTitle\nFile(s)\n\n\n\n\nMark Lurie\nIntroduction to MAPPING@Brown and Breakouts\nPDF\n\n\nPeyton Luiz\nSmartphone App Focus Group Summary\nPDF\n\n\nThomas Trikalinos,  Jason Gantenberg\nIn Persona Epidemic Simulation\nPDF\n\n\nGuixing Wei,  Kimani Toussaint\nOverview of Digital Contact Tracing Technologies and Data in Mapping@Brown\nPDF"
   },
   {
     "objectID": "dailies.html",
@@ -56,10 +56,10 @@
     "text": "Tuesday, January 17\n\n\n\n\nWednesday, January 18\n\n\n\n\nThursday, January 19\n\n\n\n\nFriday, January 20"
   },
   {
-    "objectID": "slides.html#wednesday-january-18",
-    "href": "slides.html#wednesday-january-18",
-    "title": "Keynote Slides",
-    "section": "Wednesday, January 18",
-    "text": "Wednesday, January 18\n\n\n\n\n\n\n\n\nJulia Netter\nKey Concerns and Principles for Large-Scale Data Collections and Surveillance\nPDF\n\n\nAdam Smith\nPrivacy and Synthetic Data\nPDF\n\n\nSofya Raskhodnikova\nDifferentially Private Analysis of Graphs and Social Networks\nPDF"
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other Materials",
+    "section": "",
+    "text": "Author(s)\nTitle\nFile(s)\n\n\n\n\nMark Lurie\nIntroduction to MAPPING@Brown and Breakouts\nPDF\n\n\nPeyton Luiz\nSmartphone App Focus Group Summary\nPDF\n\n\nThomas Trikalinos,  Jason Gantenberg\nIn Persona Epidemic Simulation\nPDF\n\n\nGuixing Wei,  Kimani Toussaint\nOverview of Digital Contact Tracing Technologies and Data in Mapping@Brown\nPDF"
   }
 ]
