@@ -22,3 +22,12 @@ title: "Keynote Slides"
 | Sofya Raskhodnikova | Differentially Private Analysis of Graphs and Social Networks                 | [PDF](./materials/raskhodnikova-dp-analysis-graphs_mapps-2023.pdf)        |
 
 : {tbl-colwidths="[23,70,10]"}
+
+## Thursday, January 19
+
+| Speaker             | Title                                                                         | File(s)                                                                   |
+|---------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Gerardo Chowell-Puente        | Forecasting epidemiological patterns using multi-scale semi-mechanistic models | [PDF](./materials/chowell-multiscale-models_mapps-2023.pdf) |
+
+
+: {tbl-colwidths="[23,70,10]"}
