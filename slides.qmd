@@ -25,9 +25,9 @@ title: "Keynote Slides"
 
 ## Thursday, January 19
 
-| Speaker             | Title                                                                         | File(s)                                                                   |
-|---------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Gerardo Chowell-Puente        | Forecasting epidemiological patterns using multi-scale semi-mechanistic models | [PDF](./materials/chowell-multiscale-models_mapps-2023.pdf) |
-
+| Speaker                | Title                                                                                                  | File(s)                                                     |
+|------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Gerardo Chowell-Puente | Forecasting Epidemiological Patterns Using Multi-scale Semi-mechanistic Models                         | [PDF](./materials/chowell-multiscale-models_mapps-2023.pdf) |
+| Vlad Kolesnikov        | Some Advances In and Use Scenarios for Practical Multi-Party Computation (MPC) and Zero-Knowledge (ZK) | [PDF](./materials/kolesnikov-mpc_mapps-2023.pdf)            |
 
 : {tbl-colwidths="[23,70,10]"}
